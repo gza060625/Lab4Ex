@@ -5,4 +5,6 @@ public abstract class Shape {
     private Integer y;
     private String color="$MyOwnColor";
 
+    
+
 }
