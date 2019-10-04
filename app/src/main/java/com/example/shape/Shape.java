@@ -5,8 +5,6 @@ public abstract class Shape {
     private Integer y;
     private String color="$Somesomecolor";
 
-    private String color="$EnsonColor";
-
     
 
 }
